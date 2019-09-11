@@ -1,0 +1,15 @@
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\MainWindow.g.cs
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\App.g.cs
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker_MarkupCompile.cache
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker_MarkupCompile.lref
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\MainWindow.baml
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.g.resources
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\DATA\auto-clicker\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
